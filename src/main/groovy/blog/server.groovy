@@ -1,4 +1,7 @@
-@Grab('io.ratpack:ratpack-groovy:1.2.0')
+package blog
+/**
+ * Simple web blog.server for development
+ */
 import static ratpack.groovy.Groovy.ratpack
 
 ratpack {
